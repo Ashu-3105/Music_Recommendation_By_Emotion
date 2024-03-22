@@ -2,7 +2,7 @@ streamlit
 streamlit_webrtc
 numpy
 av
-opencv-python
+opencv-python-headless
 mediapipe
-tensorflow
+tensorflow==2.14.0
 keras
