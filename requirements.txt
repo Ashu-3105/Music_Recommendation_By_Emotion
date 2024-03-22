@@ -6,4 +6,4 @@ opencv-python
 mediapipe
 tensorflow
 keras
-webbrowser
+pycopy-webbrowser
